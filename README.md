@@ -1,7 +1,7 @@
 # Q1K_VS_EEG
 # Visual Search EEG & Eye-Tracking Analysis
 
-## 📄 Project Overview
+## Project Overview
 This project analyzes EEG, and eye-tracking data from a Visual Search task, aiming to explore patterns in cognitive performance, attention, and potential familial effects. It compare data from ASD, ADHD, and control groups.   
 The analyses cover a comparison of EEG patterns between conditions, and detail, and investigate how eye-tracking measures align with EEG results.
 
@@ -9,7 +9,7 @@ A key focus is on **reaction times, P1 and P3b amplitude, alpha, gamma waves, an
 
 ---
 
-## 📊 Data Summary Visualization
+## Data Summary Visualization
 A visual summary of all graphs and analyses from this project can be found within the notebooks.  
 These include:
 - Behavioral performance trends (reaction times, accuracy)
@@ -20,7 +20,7 @@ These include:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 | File | Description |
 |------|-------------|
 | `Eye_tracking_data_VS.ipynb` | Processes and analyzes raw eye-tracking data from the visual search task. |
@@ -35,7 +35,7 @@ These include:
 
 ---
 
-## 🛠 Roadmap & Recommended Execution Order
+## Roadmap & Recommended Execution Order
 To reproduce the full analysis, follow this order:
 
 1. **Behavioral Data Processing** → `VS_distance_data.ipynb`  
