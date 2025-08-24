@@ -31,7 +31,6 @@ These include:
 | `familial_pattern_VS.ipynb` | Explores familial patterns in visual search performance across participants. |
 | `VS_distance_data.ipynb` | Analyses links between distance and reaction time. |
 | `VS_EEG_EXTRACTION.ipynb` | Additional EEG extraction and figure generation for visualization. |
-| `hello.txt` | Placeholder/test file. |
 
 ---
 
