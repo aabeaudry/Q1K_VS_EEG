@@ -46,4 +46,4 @@ To reproduce the full analysis, follow this order:
 
 ---
 
-**Author:** Audrey-Anne Beaudry  
+**Author:** Audrey-Anne Beaudry and Gabriel Blanco Gomez
