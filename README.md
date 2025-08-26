@@ -14,7 +14,7 @@ A visual summary of all graphs and analyses from this project can be found withi
 These include:
 - Behavioral performance trends (reaction times, accuracy)
 - EEG condition-based power analyses
-- Eye-tracking heatmaps and fixation distributions
+- Eye-tracking + EEG visualization
 - Distance and pattern similarity metrics
 - Familial pattern exploration in visual search performance
 
