@@ -5,7 +5,7 @@
 This project analyzes EEG, and eye-tracking data from a Visual Search task, aiming to explore patterns in cognitive performance, attention, and potential familial effects. It compare data from ASD, ADHD, and control groups.   
 The analyses cover a comparison of EEG patterns between conditions, and detail, and investigate how eye-tracking measures align with EEG results.
 
-A key focus is on **reaction times, P1 and P3b amplitude, alpha, gamma waves, and family patterns** in both typical and clinical populations.
+The focus is on **reaction times, P1 and P3b amplitude, alpha, gamma waves, and family patterns** in both neurotypical vs neurodevelopmental (ASD, ADHD) indiviudals.
 
 ---
 
