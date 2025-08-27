@@ -46,4 +46,33 @@ To reproduce the full analysis, follow this order:
 7. **Distance Confound Analysis** → `VS_distance_data.ipynb`
 ---
 
+## Reusability
+
+The intended use of this code is to allow researchers to replicate and extend EEG-based subtype analyses in developmental neuroscience, or to adapt these methods for other types of multivariate biosignal data. Researchers can reuse individual components (e.g., the clustering pipeline or EEG feature extraction scripts) in their own projects, enabling broader scientific reproducibility.
+---
+
+## Acknowledgements
+
+The authors would like to thank all families who took part in this study. Special thanks to the my supervisor Mayada Elsabbagh.
+
+---
+## Badges
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+---
+## Requirements
+
+- Python 3.8+
+- Packages:
+  - Python: pathlib, pandas, numpy, os, statsmodels, seaborn, matplotlib.pyplot, glob, spicy, pingouin, mne, tqdm, collections
+
+---
+## Support
+
+For support, email: [audrey-anne.beaudry@mail.mcgill.ca](mailto:audrey-anne.beaudry@mail.mcgill.ca)
+---
+## License
+
+This project is licensed under the MIT License.
+
 **Author:** Audrey-Anne Beaudry and Gabriel Blanco Gomez
