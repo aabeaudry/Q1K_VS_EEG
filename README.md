@@ -73,8 +73,10 @@ The authors would like to thank all families who took part in this study. Specia
 For support, email: [audrey-anne.beaudry@mail.mcgill.ca](mailto:audrey-anne.beaudry@mail.mcgill.ca)
 
 ---
----
+
 ## License
 This project is licensed under the MIT License.
+
+---
 
 **Author:** Audrey-Anne Beaudry and Gabriel Blanco Gomez
