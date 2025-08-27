@@ -55,7 +55,7 @@ By publishing the pipeline before data publication, this project promotes transp
 ---
 
 ## Acknowledgements
-The authors would like to thank all families who took part in this study. Special thanks to the my supervisor Mayada Elsabbagh.
+The authors would like to thank all families who took part in this study. Special thanks to our supervisor Mayada Elsabbagh.
 
 ---
 ## Badges
