@@ -47,7 +47,10 @@ To reproduce the full analysis, follow this order:
 ---
 
 ## Reusability
-The intended use of this code is to allow researchers to replicate and extend EEG-based subtype analyses in developmental neuroscience, or to adapt these methods for other types of multivariate biosignal data. Researchers can reuse individual components (e.g., the clustering pipeline or EEG feature extraction scripts) in their own projects, enabling broader scientific reproducibility.
+This codebase was developed as part of the Quebec 1,000 Families (Q1K) project to analyze EEG, eye-tracking, and behavioral data collected during a nonverbal visual search task. The task was designed to be inclusive of a wide range of cognitive and verbal abilities, addressing a common limitation in autism spectrum disorder (ASD) research, which often overrepresents higher-functioning individuals and under-models familial effects. By sharing this code, we aim to enable further research that tackles this critical gap in the literature.
+
+The pipeline is modular and well-documented, making it adaptable for researchers working with multimodal neurodevelopmental data. Components can be reused independently. 
+By publishing the pipeline before data publication, this project promotes transparency and reproducibility. Researchers are encouraged to adapt it for new datasets, integrate additional modalities, or extend its statistical modeling framework.
 
 ---
 
