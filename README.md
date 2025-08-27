@@ -47,12 +47,11 @@ To reproduce the full analysis, follow this order:
 ---
 
 ## Reusability
-
 The intended use of this code is to allow researchers to replicate and extend EEG-based subtype analyses in developmental neuroscience, or to adapt these methods for other types of multivariate biosignal data. Researchers can reuse individual components (e.g., the clustering pipeline or EEG feature extraction scripts) in their own projects, enabling broader scientific reproducibility.
+
 ---
 
 ## Acknowledgements
-
 The authors would like to thank all families who took part in this study. Special thanks to the my supervisor Mayada Elsabbagh.
 
 ---
@@ -68,11 +67,9 @@ The authors would like to thank all families who took part in this study. Specia
 
 ---
 ## Support
-
 For support, email: [audrey-anne.beaudry@mail.mcgill.ca](mailto:audrey-anne.beaudry@mail.mcgill.ca)
 ---
 ## License
-
 This project is licensed under the MIT License.
 
 **Author:** Audrey-Anne Beaudry and Gabriel Blanco Gomez
